@@ -12,3 +12,17 @@ F:\c#\TodoList\TodoList\obj\Debug\net6.0\refint\TodoList.dll
 F:\c#\TodoList\TodoList\obj\Debug\net6.0\TodoList.pdb
 F:\c#\TodoList\TodoList\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
 F:\c#\TodoList\TodoList\obj\Debug\net6.0\ref\TodoList.dll
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\TodoList.dll
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\refint\TodoList.dll
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\TodoList.pdb
+F:\c# projects\TodoList\TodoList\bin\Debug\net6.0\TodoList.exe
+F:\c# projects\TodoList\TodoList\bin\Debug\net6.0\TodoList.deps.json
+F:\c# projects\TodoList\TodoList\bin\Debug\net6.0\TodoList.runtimeconfig.json
+F:\c# projects\TodoList\TodoList\bin\Debug\net6.0\TodoList.dll
+F:\c# projects\TodoList\TodoList\bin\Debug\net6.0\TodoList.pdb
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+F:\c# projects\TodoList\TodoList\obj\Debug\net6.0\ref\TodoList.dll
